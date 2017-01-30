@@ -1,0 +1,43 @@
+#brand {
+	max-height: 1em;
+}
+
+#featured-logo {
+	max-height: 20em;
+
+}
+
+.jumbotron {
+	padding-left: 2em;
+	padding-right: 2em;
+	padding-bottom: 2em;
+	background-image: url(img/jumboback.jpg) !important;
+	background-size: cover;
+	color: #EEEEEE;
+}
+
+#games-list {
+	padding: 2em;
+}
+
+.trailer-icon {
+	max-width: 5em;
+}
+
+.title {
+	font-weight: bold;
+}
+
+.navbar {
+	background: #E60012 !important;
+	border-color: #E60012 !important;
+	color: white !important;
+}
+
+.navbar-brand {
+	color: white !important;
+}
+
+.nav.navbar-nav.navbar-right li a {
+	color: white !important;
+}
